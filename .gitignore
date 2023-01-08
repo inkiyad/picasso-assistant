@@ -119,3 +119,12 @@ dmypy.json
 # ignore directory ml-skeleton-py
 # ml-skeleton-py/
 ml-skeleton-py_env/
+
+# data directory
+data/
+
+# zip files
+.zip
+
+# tar files
+*.tar
